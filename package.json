@@ -1,0 +1,13 @@
+{
+  "name": "image-processor-azure",
+  "version": "1.0.0",
+  "description": "Fonction Azure pour traiter des images avec Azure Computer Vision",
+  "scripts": {
+    "start": "func start"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "sharp": "^0.32.6"
+  },
+  "devDependencies": {}
+} 
